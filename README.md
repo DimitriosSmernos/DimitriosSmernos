@@ -128,5 +128,5 @@ I am open to junior web developer opportunities, internships, collaborations, an
 
 ## Contact
 
-- Email: [mppl2438@unipi.gr](mailto:d.g.smernos@gmail.com)
+- Email: [d.g.smernos@gmail.com](mailto:d.g.smernos@gmail.com)
 - GitHub: [DimitriosSmernos](https://github.com/DimitriosSmernos)
