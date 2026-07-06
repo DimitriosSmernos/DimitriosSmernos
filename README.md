@@ -99,9 +99,9 @@ A notes web application for creating and managing personal notes, built with a J
 ## Live Websites
 
 - [Personal Portfolio](https://my-portofolio-livid-xi.vercel.app/) - My personal portfolio website.
-- [Don't Ring The Bells](https://dontringthebells.netlify.app/login) - Deployed web application with a login flow.
+- [Don't Ring The Bells](https://dontringthebells.netlify.app/login) - Gymnastics website for presenting training services and a focused fitness brand experience.
 - [E-Food Store](https://e-food-store-khaki.vercel.app/) - Full Stack website for a food store with product listings, shopping cart and checkout flow, built with React and Node.js. Backend is hosted on Render and frontend on Vercel.
-- [Soulis Engineering](http://souliseng.com/) - Professional website for an engineering/business presence.
+- [Soulis Engineering](http://souliseng.com/) - Professional engineering website built as a freelance web project with Next.js.
 - [Full-Stack Events App](https://dimitris-metskas-full-stack-app-eve.vercel.app/) - Deployed Next.js events app connected with MongoDB.
 
 ---
