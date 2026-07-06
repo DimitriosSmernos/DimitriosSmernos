@@ -118,16 +118,15 @@ I am open to junior web developer opportunities, internships, collaborations, an
 
 ---
 
-## GitHub Stats
+## GitHub Focus
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitriosSmernos&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosSmernos&layout=compact&hide_border=true" height="150" alt="Top languages"/>
-</p>
+- Building and deploying React / Next.js projects
+- Practicing full-stack patterns with APIs, databases, and dynamic UI flows
+- Improving project structure, reusable components, and clean GitHub documentation
 
 ---
 
 ## Contact
 
-- Email: [mppl2438@unipi.gr](mailto:mppl2438@unipi.gr)
+- Email: [mppl2438@unipi.gr](mailto:d.g.smernos@gmail.com)
 - GitHub: [DimitriosSmernos](https://github.com/DimitriosSmernos)
