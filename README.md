@@ -56,15 +56,7 @@ Based in Thessaloniki, Greece, I am focused on growing as a full-stack developer
 
 ---
 
-## Featured Projects
-
-### [Full-Stack Events App with MongoDB & Next.js](https://github.com/DimitriosSmernos/DimitrisMetskas-FullStackAppEventsWithMongoDB-NextJS-Pages)
-
-[Live Demo](https://dimitris-metskas-full-stack-app-eve.vercel.app)
-
-A full-stack events application built with Next.js, React, and MongoDB. It focuses on event data handling, dynamic pages, and a production-style deployment flow.
-
-**Tech:** Next.js, React, MongoDB, JavaScript
+## GitHub Repositories
 
 ### [CRM App](https://github.com/DimitriosSmernos/crm_app)
 
@@ -96,14 +88,26 @@ An app that uses the user's location to sort places by distance and helps users 
 
 **Tech:** JavaScript, browser location APIs
 
+### [Investments Calculator](https://github.com/DimitriosSmernos/InvestmentsCalcutator)
+
+A React application that calculates future investment value based on user input, yearly contributions, expected return, and investment duration.
+
+**Tech:** React, JavaScript
+
+### [NoteWebApp](https://github.com/DimitriosSmernos/NoteWebApp)
+
+A notes web application for creating and managing personal notes, built with a JavaScript full-stack approach.
+
+**Tech:** React, Node.js, JavaScript
+
 ---
 
-## More Work
+## Live Websites
 
-- [APIs SQL Website For Books](https://github.com/DimitriosSmernos/APIs_SQL_WebsiteForBooks) - API and database-backed book information website.
-- [Coffee and Wifi Website](https://github.com/DimitriosSmernos/Coffe_and_Wifi_Website) - Database-driven listing for coffee shops, Wi-Fi, seats, sockets, and location info.
-- [Watermark on Pictures](https://github.com/DimitriosSmernos/Watermark_on_pictures) - Python utility for adding watermark text to images.
-- [Breakout Game](https://github.com/DimitriosSmernos/Breakout_Game) - Python Turtle implementation of a Breakout-style game.
+- [Don't Ring The Bells](https://dontringthebells.netlify.app/login) - Deployed web application with a login flow.
+- [Personal Portfolio](https://my-portofolio-livid-xi.vercel.app/) - My personal portfolio website.
+- [Soulis Engineering](http://souliseng.com/) - Professional website for an engineering/business presence.
+- [Full-Stack Events App](https://dimitris-metskas-full-stack-app-eve.vercel.app/) - Deployed Next.js events app connected with MongoDB.
 
 ---
 
